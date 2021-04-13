@@ -1,2 +1,3 @@
 # SampleRepo
-This is a sample Repo
+This is a sample Repo 
+for learning Git
